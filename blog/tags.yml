@@ -1,0 +1,29 @@
+proteomics:
+  label: Proteomics
+  permalink: /tags/proteomics
+  description: Mass spectrometry and proteomics file formats and tooling.
+
+lance:
+  label: Lance
+  permalink: /tags/lance
+  description: Columnar data, Lance / Arrow, and analytics workloads.
+
+mri:
+  label: MRI
+  permalink: /tags/mri
+  description: MRI raw data, ISMRMRD, and reconstruction.
+
+variants:
+  label: Variants
+  permalink: /tags/variants
+  description: VCF / BCF, ClinVar, and clinical variant interpretation.
+
+reverse-engineering:
+  label: Reverse Engineering
+  permalink: /tags/reverse-engineering
+  description: Working out closed binary file formats from public corpora.
+
+release:
+  label: Release
+  permalink: /tags/release
+  description: Release notes and version announcements.
