@@ -1,5 +1,7 @@
 # Sigilweaver Blog
 
+[![CI](https://github.com/Sigilweaver/Blog/actions/workflows/ci.yml/badge.svg)](https://github.com/Sigilweaver/Blog/actions/workflows/ci.yml)
+
 The blog at <https://sigilweaver.app/blog/\>. Standalone
 [Docusaurus](https://docusaurus.io/) instance, deployed to
 Cloudflare Workers.
