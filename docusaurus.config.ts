@@ -81,9 +81,9 @@ const config: Config = {
                     position: 'left',
                     items: [
                         { label: 'OpenProteo', href: 'https://sigilweaver.app/openproteo/docs/' },
-                        { label: 'BioLance', href: 'https://sigilweaver.app/biolance/docs/' },
+                        { label: 'BioLance', href: 'https://github.com/Sigilweaver/BioLance' },
                         { label: 'OpenKSpace', href: 'https://sigilweaver.app/openkspace/docs/' },
-                        { label: 'OpenQVD', href: 'https://sigilweaver.app/openqvd/docs/' },
+                        { label: 'OpenQVD', href: 'https://github.com/Sigilweaver/OpenQVD' },
                         { label: 'OpenYXDB', href: 'https://sigilweaver.app/openyxdb/docs/' },
                         { label: 'OpenSQLAnywhere', href: 'https://sigilweaver.app/opensqlanywhere/docs/' },
                         { label: 'OpenQBW', href: 'https://sigilweaver.app/openqbw/docs/' },
