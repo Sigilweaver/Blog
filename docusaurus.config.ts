@@ -58,7 +58,7 @@ const config: Config = {
 
     themeConfig: {
         metadata: [
-            { name: 'keywords', content: 'Sigilweaver, OpenProteo, BioLance, OpenKSpace, OpenSQLAnywhere, OpenQBW, Lance, Arrow, mass spectrometry, variants, MRI, accounting, reverse engineering, file formats' },
+            { name: 'keywords', content: 'Sigilweaver, OpenProteo, ProLance, BioLance, OpenKSpace, OpenSQLAnywhere, OpenQBW, Lance, Arrow, mass spectrometry, variants, MRI, accounting, reverse engineering, file formats' },
             { name: 'description', content: 'Technical writeups from the Sigilweaver open-source suite.' },
         ],
         colorMode: {
@@ -81,6 +81,7 @@ const config: Config = {
                     position: 'left',
                     items: [
                         { label: 'OpenProteo', href: 'https://sigilweaver.app/openproteo/docs/' },
+                        { label: 'ProLance', href: 'https://sigilweaver.app/prolance/docs/' },
                         { label: 'BioLance', href: 'https://github.com/Sigilweaver/BioLance' },
                         { label: 'OpenKSpace', href: 'https://sigilweaver.app/openkspace/docs/' },
                         { label: 'OpenQVD', href: 'https://github.com/Sigilweaver/OpenQVD' },
