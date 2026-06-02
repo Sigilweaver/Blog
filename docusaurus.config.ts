@@ -25,6 +25,8 @@ const config: Config = {
         locales: ['en'],
     },
 
+    plugins: ['docusaurus-plugin-llms-txt'],
+
     presets: [
         [
             'classic',
