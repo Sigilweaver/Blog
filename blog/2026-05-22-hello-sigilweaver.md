@@ -16,7 +16,7 @@ Expect short writeups about:
   Waters `.raw`, Qlik QVD, Alteryx YXDB) on public corpora.
 - Why Lance is a surprisingly good fit for mass spec, variants, and
   k-space data.
-- Stability and performance work on the OpenProteo stack.
+- Stability and performance work on the OpenMassSpec stack.
 - Reconstruction notes from OpenKSpace (SENSE, GRAPPA, CS).
 - Release notes for every public version bump.
 
